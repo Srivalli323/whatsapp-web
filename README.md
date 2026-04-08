@@ -127,32 +127,39 @@ npm start
 
 Register Page:
 
-<img width="1897" height="880" alt="Register" src="https://github.com/user-attachments/assets/bbb9a8c9-7a27-4563-a728-cbf1fa0236c4" />
+<img width="1897" height="880" alt="image" src="https://github.com/user-attachments/assets/3e513368-8021-4912-a172-2663f83470ee" />
+
 
 
 Login Page: 
 
-<img width="1897" height="880" alt="Register" src="https://github.com/user-attachments/assets/6f01069e-151c-4775-be92-19a077c45ce8" />
+<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/6a7548c6-2d1b-4862-ad74-a22f8ae36e77" />
+
 
 Create new chat:
 
-<img width="1920" height="882" alt="creating user" src="https://github.com/user-attachments/assets/de14f8cc-8a6b-4147-b6c4-0e1ba86252f3" />
+<img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/54c614bc-25ef-44aa-91c4-7e9cc863fdbf" />
+
 
 One-to-one chat:
 
-<img width="1920" height="835" alt="images and files" src="https://github.com/user-attachments/assets/eeb58bf1-05c3-4217-996b-94574750f46a" />
+<img width="1920" height="835" alt="image" src="https://github.com/user-attachments/assets/daeb93c0-c1c1-4c43-a68b-832592c27dcf" />
+
 
 Group chat:
 
-<img width="1883" height="843" alt="group chat" src="https://github.com/user-attachments/assets/7bb094d0-ef3d-4c57-92ca-9cd139131314" />
+<img width="1883" height="843" alt="image" src="https://github.com/user-attachments/assets/c96c7af4-d9e7-4af1-a42a-73fb7c79984b" />
+
 
 Video call:
 
-<img width="1885" height="843" alt="videocall1" src="https://github.com/user-attachments/assets/c67b50f8-c8f1-4f37-a152-bf7d902d81f1" />
+<img width="1885" height="843" alt="image" src="https://github.com/user-attachments/assets/763d3747-81c5-49d0-a1b5-07726ac632b8" />
+
 
 Audio call:
 
-<img width="1871" height="844" alt="audiocall" src="https://github.com/user-attachments/assets/86fa2c65-6825-4f2f-8a36-eb625aa59ffb" />
+<img width="1871" height="844" alt="image" src="https://github.com/user-attachments/assets/ba40be68-cdba-4f91-bae6-bec371506c12" />
+
 
 ---
 
@@ -183,5 +190,6 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 🧑‍💻 Author
 
-Priyanka Prajapati,
-Muthyala Srivalli
+Muthyala Srivalli,
+Priyanka Prajapati
+
