@@ -1,5 +1,5 @@
-# 💬 Real-Time Chat Appllication (MERN + WebRTC)
-### Inspired By Whatsapp web
+# 💬 Real-Time Chat Application (MERN + WebRTC)
+### Inspired By Whatsapp Web
 
 A full-stack real-time chat application inspired by WhatsApp Web, featuring messaging, group chats, file sharing, and peer-to-peer audio/video calling.
 
